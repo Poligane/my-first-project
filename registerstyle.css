@@ -66,6 +66,7 @@ h1{
 }
 
 .regbut button:hover{
-    background-color: rgb(179, 179, 179);
+    opacity: 90%;
 }
+
 
