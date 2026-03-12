@@ -54,7 +54,7 @@ h1{
 }
 
 .input-box input:hover{
-    background-color: rgb(179, 179, 179);
+    opacity: 90%;
 }
 
 .submit button{
@@ -86,4 +86,5 @@ h1{
     font-size: 20px;
 }
              
+
 
